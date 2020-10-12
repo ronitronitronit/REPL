@@ -128,6 +128,7 @@ Book - Cormen, T.H., C.E. Leiserson, R.L. Rivest and C. Stein Introduction to al
 ## Notes
 
 - [student_notes/felipe_balbi/notes.pdf](https://github.com/world-class/notes/tree/master/level_5/algorithms_and_data_structures_ii/student_notes/felipe_balbi/notes.pdf)
+- [Ronit's notes](https://docs.google.com/document/d/1f4HQXUrRu0o77dMkk_MdoHciXxk6MRB42wvs46jdOqY/edit?usp=sharing)
 
 ## Solutions to the textbook Introduction to Algorithms
 
